@@ -1,0 +1,20 @@
+name: ComplexBans
+version: ${project.version}
+main: maxsimus.complexbans.spigot.ComplexBans
+prefix: CB
+authors: [Maxsimus]
+commands:
+  ban:
+    permission: cb.ban
+  unban:
+    permission: cb.unban
+  ipban:
+    permission: cb.ipban
+  ipunban:
+    permission: cb.ipunban
+  mute:
+    permission: cb.mute
+  unmute:
+    permission: cb.unmute
+  kick:
+    permission: cb.kick

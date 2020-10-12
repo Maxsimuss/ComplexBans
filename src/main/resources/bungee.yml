@@ -1,0 +1,4 @@
+name: ComplexBans
+version: ${project.version}
+main: maxsimus.complexbans.bungeecord.ComplexBans
+author: Maxsimus

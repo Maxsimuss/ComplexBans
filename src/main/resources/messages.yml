@@ -1,0 +1,31 @@
+ban-template:
+  - '&cYou have been banned from the network!'
+  - '&cYour ban expires on'
+  - '&6&l%expiration%'
+  - ''
+  - '&cYou have been banned for'
+  - '&6&l%reason%'
+  - ''
+  - '&7&0                                   '
+  - '&7if you have any questions, join our discord:'
+  - '&6example.com/discord'
+
+ipban-template:
+  - '&cYou have been ip banned from the network!'
+  - '&cYour ban expires on'
+  - '&6&l%expiration%'
+  - ''
+  - '&cYou have been banned for'
+  - '&6&l%reason%'
+  - ''
+  - '&7&0                                   '
+  - '&7if you have any questions, join our discord:'
+  - '&6example.com/discord'
+
+kick-template:
+  - '&cYou have been kicked from the network for'
+  - '&6&l%reason%'
+  - ''
+  - '&7&0                                   '
+  - '&7if you have any questions, join our discord:'
+  - '&6example.com/discord'
